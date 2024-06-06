@@ -2,7 +2,7 @@
     "*.{js,jsx,ts,tsx}": [
         "eslint --fix"
     ],
-    "*.{scss,less,html}": [
+    "*.{css,scss,less,html}": [
       "stylelint --fix"
     ]
 }
