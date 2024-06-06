@@ -1,0 +1,21 @@
+{
+  "name": "stylelint_xh",
+  "version": "0.0.0",
+  "description": "自定义stylelint规则",
+  "author": "littleMeow0",
+  "homepage": "",
+  "license": "ISC",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmmirror.com/"
+  },
+  "peerDependencies": {
+    "stylelint": ">=8.3.0",
+    "stylelint-scss": ">=2.0.0"
+  },
+  "devDependencies": {
+    "stylelint": "^14.3.0",
+    "stylelint-scss": "^4.1.0"
+  }
+}

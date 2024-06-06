@@ -1,0 +1,22 @@
+{
+  "name": "commitlint_xh",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "littleMeow0 <142789815+littleMeow0@users.noreply.github.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/commitlint_xh.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmmirror.com/"
+  },
+  "scripts": {
+    "test": "node ./__tests__/commitlint_xh.test.js"
+  }
+}
