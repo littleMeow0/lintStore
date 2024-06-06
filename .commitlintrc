@@ -1,3 +1,3 @@
-module.exports = {
+{
   "extends": "./packages/commitlint_xh/index.js"
 }

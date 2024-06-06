@@ -9,10 +9,12 @@
     "@babel/eslint-parser": "^7.16.3",
     "eslint-plugin-import": "^2.25.3",
     "@commitlint/cli": "^17.6.1",
-    "husky": "9.0.11"
+    "husky": "9.0.11",
+    "lint-staged": "15.2.5"
   },
   "scripts": {
     "preinstall": "npx only-allow pnpm",
-    "prepare": "husky"
+    "prepare": "husky",
+    "lint": "lint-staged"
   }
 }
