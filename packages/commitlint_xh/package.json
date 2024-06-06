@@ -2,7 +2,7 @@
   "name": "commitlint_xh",
   "version": "0.0.5",
   "description": "自定义commitlint规则",
-  "author": "littleMeow0",
+  "author": "littleMeow",
   "homepage": "",
   "license": "ISC",
   "repository": {
@@ -19,5 +19,6 @@
   },
   "dependencies": {
     "conventional-changelog-conventionalcommits": "^4.5.0"
-  }
+  },
+  "gitHead": "791205ea84c17249a8fb25a583be3cd1ab90f884"
 }

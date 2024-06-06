@@ -2,7 +2,7 @@
   "name": "stylelint_xh",
   "version": "0.0.5",
   "description": "自定义stylelint规则",
-  "author": "littleMeow0",
+  "author": "littleMeow",
   "homepage": "",
   "license": "ISC",
   "repository": {
@@ -24,5 +24,6 @@
   "devDependencies": {
     "stylelint": "^14.3.0",
     "stylelint-scss": "^4.1.0"
-  }
+  },
+  "gitHead": "791205ea84c17249a8fb25a583be3cd1ab90f884"
 }
