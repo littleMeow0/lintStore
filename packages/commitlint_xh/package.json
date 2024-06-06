@@ -1,22 +1,16 @@
 {
   "name": "commitlint_xh",
   "version": "0.0.0",
-  "description": "> TODO: description",
-  "author": "littleMeow0 <142789815+littleMeow0@users.noreply.github.com>",
+  "description": "自定义commitlint规则",
+  "author": "littleMeow0",
   "homepage": "",
   "license": "ISC",
-  "main": "lib/commitlint_xh.js",
-  "directories": {
-    "lib": "lib",
-    "test": "__tests__"
-  },
-  "files": [
-    "lib"
-  ],
+  "main": "index.js",
   "publishConfig": {
+    "access": "public",
     "registry": "https://registry.npmmirror.com/"
   },
-  "scripts": {
-    "test": "node ./__tests__/commitlint_xh.test.js"
+  "dependencies": {
+    "conventional-changelog-conventionalcommits": "^4.5.0"
   }
 }
