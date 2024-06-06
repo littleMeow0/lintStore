@@ -5,6 +5,13 @@
   "author": "littleMeow0",
   "homepage": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/littleMeow0/lintStore.git"
+  },
+  "bugs": {
+    "url": "https://github.com/littleMeow0/lintStore/issues"
+  },
   "main": "index.js",
   "publishConfig": {
     "access": "public",
@@ -12,6 +19,5 @@
   },
   "dependencies": {
     "conventional-changelog-conventionalcommits": "^4.5.0"
-  },
-  "gitHead": "0bb03bf30f13cb7eaed8becb9b7edf10b2393ded"
+  }
 }
