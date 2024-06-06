@@ -1,6 +1,6 @@
 {
   "name": "stylelint_xh",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "自定义stylelint规则",
   "author": "littleMeow0",
   "homepage": "",
@@ -17,5 +17,6 @@
   "devDependencies": {
     "stylelint": "^14.3.0",
     "stylelint-scss": "^4.1.0"
-  }
+  },
+  "gitHead": "0bb03bf30f13cb7eaed8becb9b7edf10b2393ded"
 }
