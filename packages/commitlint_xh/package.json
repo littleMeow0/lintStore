@@ -3,7 +3,7 @@
   "version": "0.0.6",
   "description": "自定义commitlint规则",
   "author": "littleMeow",
-  "homepage": "",
+  "homepage": "https://github.com/littleMeow0/lintStore#readme.md",
   "license": "ISC",
   "repository": {
     "type": "git",
@@ -13,10 +13,6 @@
     "url": "https://github.com/littleMeow0/lintStore/issues"
   },
   "main": "index.js",
-  "publishConfig": {
-    "access": "public",
-    "registry": "https://registry.npmmirror.com/"
-  },
   "dependencies": {
     "conventional-changelog-conventionalcommits": "^4.5.0"
   },
